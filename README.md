@@ -16,3 +16,6 @@
 #### pandas
 #### CSV
 #### Regex
+#### Matplotlib 
+#### Sns
+#### Ms Office 
