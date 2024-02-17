@@ -10,12 +10,12 @@
 
 ## Tools
 
-*Python
+* Python
 * BeautifulSoup
-requests
-pandas
-CSV
-Regex
-Matplotlib 
-Sns
-Ms Office 
+* requests
+* pandas
+* CSV
+* Regex
+* Matplotlib 
+* Sns
+* Ms Office 
