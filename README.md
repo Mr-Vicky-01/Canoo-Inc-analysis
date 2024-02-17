@@ -1,6 +1,6 @@
 ## Steps Involved In This Analysis
 
-#### 1. Identify the industry in which Canoo operates, along with its size, growth rate, trends, and key players.
+1. Identify the industry in which Canoo operates, along with its size, growth rate, trends, and key players.
 
 #### 2. Analyze Canoo's main competitors, including their market share, products or services offered, pricing strategies, and marketing efforts.
 
