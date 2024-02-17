@@ -7,3 +7,12 @@
 #### 3. Identify key trends in the market, including changes in consumer behavior, technological advancements, and shifts in the competitive landscape.
 
 #### 4. Gather information on Canoo's financial performance, including its revenue, profit margins, return on investment, and expense structure.
+
+## Tools
+
+#### Python
+#### BeautifulSoup
+#### requests
+#### pandas
+#### CSV
+#### Regex
