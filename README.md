@@ -10,8 +10,8 @@
 
 ## Tools
 
-Python
-BeautifulSoup
+*Python
+* BeautifulSoup
 requests
 pandas
 CSV
