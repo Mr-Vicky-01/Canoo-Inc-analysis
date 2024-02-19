@@ -1,3 +1,5 @@
+![download](https://github.com/Mr-Vicky-01/Deplyment-Deep-learining/assets/143078285/05eb7842-66f6-4ea4-8d45-c3afe3eebf11)
+
 ## Steps Involved In This Analysis
 
 1. Identify the industry in which Canoo operates, along with its size, growth rate, trends, and key players.
